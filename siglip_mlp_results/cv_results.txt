@@ -1,0 +1,9 @@
+5-Fold Cross-Validation Results
+-----------------------------
+Fold 1 Accuracy: 0.8684
+Fold 2 Accuracy: 0.8789
+Fold 3 Accuracy: 0.8628
+Fold 4 Accuracy: 0.8892
+Fold 5 Accuracy: 0.8496
+
+Average accuracy: 0.8698 ± 0.0136
